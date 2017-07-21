@@ -10,8 +10,8 @@ import (
 var nowFunc = time.Now
 
 // TimestampSince is offset from epoch time origin as millseconds.
-// It indicates 2015-01-01 00:00:00 UTC
-const TimestampSince = uint64(1420070400 * 1000)
+// It indicates 2017-07-21 00:00:00 UTC
+const TimestampSince = uint64(1500595200 * 1000)
 
 // for bitshift
 const (

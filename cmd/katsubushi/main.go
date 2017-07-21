@@ -16,9 +16,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/fujiwara/raus"
-	"github.com/fukata/golang-stats-api-handler"
-	"github.com/kayac/go-katsubushi"
+	"github.com/nurai/raus"
+	"github.com/nurai/golang-stats-api-handler"
+	"github.com/nurai/go-katsubushi"
 )
 
 type profConfig struct {
